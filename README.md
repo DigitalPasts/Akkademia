@@ -263,3 +263,5 @@ If you are experiencing any issues with the website, the python package akkadian
 * Ariel Elazary
 * Avital Romach
 * Shai Gordin
+
+_**This research was supported by the Ministry of Science & Technology ,Israel.**_
