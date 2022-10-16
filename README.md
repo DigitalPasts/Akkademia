@@ -264,4 +264,8 @@ If you are experiencing any issues with the website, the python package akkadian
 * Avital Romach
 * Shai Gordin
 
-_**This research was supported by the Ministry of Science & Technology ,Israel.**_
+_**This research was supported by the Ministry of Science & Technology, Israel and by the joint Research Project LMU Munich - Tel Aviv University, Grant no. 3492.**_
+
+![image](https://user-images.githubusercontent.com/68370144/196040059-5dec84eb-1d78-4eac-b0ff-6fc39814317d.png)
+![image](https://user-images.githubusercontent.com/68370144/196039930-5c698fad-ffec-43fc-9c07-cd196605d069.png)
+![image](https://user-images.githubusercontent.com/68370144/196039940-c1bc5791-30e6-421e-b217-310f4bc499c5.png)
